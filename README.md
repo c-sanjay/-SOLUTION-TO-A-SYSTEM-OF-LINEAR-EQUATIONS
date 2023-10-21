@@ -26,7 +26,7 @@ print(result)
 ```
 
 ## Output:
-![Alt text](<EXP 01.png>)
+![output](./EXP 01/pred.png)
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
